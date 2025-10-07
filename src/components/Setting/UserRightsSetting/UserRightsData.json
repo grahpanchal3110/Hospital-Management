@@ -1,0 +1,91 @@
+ [
+    {
+      "type": "Dashboard",
+      "menu": "Dashboard"
+    },
+    {
+      "type": "Doctor",
+      "menu": "Doctor View"
+    },
+    {
+      "type": "Front Office",
+      "menu": "Reception"
+    },
+    {
+      "type": "Logout",
+      "menu": "Logout"
+    },
+    {
+      "type": "Master",
+      "menu": "Account Master"
+    },
+    {
+       "type": "Master",
+      "menu": "Account Group"
+    }
+    ,
+    {
+       "type": "Master",
+      "menu": "Patient Master"
+    },
+    {
+       "type": "Master",
+      "menu": "Other Master"
+    },
+    {
+       "type": "Master",
+      "menu": "Bill Master"
+    },
+    {
+       "type": "Master",
+      "menu": "SMS Master"
+    },
+    {
+       "type": "Master",
+      "menu": "Doctor Master"
+    },
+    {
+       "type": "Master",
+      "menu": "Company"
+    },
+    {
+       "type": "Master",
+      "menu": "Center"
+    },
+    {
+       "type": "Master",
+      "menu": "Marketing Master"
+    },
+    {
+       "type": "Report",
+      "menu": "DailyCollectionSummary"
+    },
+    {
+       "type": "Report",
+      "menu": "DailyCollection"
+    },
+    {
+       "type": "Report",
+      "menu": "PatientwiseStudy"
+    },
+    {
+       "type": "Report",
+      "menu": "Payment Report"
+    },
+    {
+       "type": "Report",
+      "menu": "Log Report"
+    },
+    {
+       "type": "Setting",
+      "menu": "User Setting"
+    },
+    {
+       "type": "Setting",
+      "menu": "Group Setting"
+    },
+    {
+       "type": "Setting",
+      "menu": "User Rights Setting"
+    }
+  ]

@@ -1,0 +1,442 @@
+[
+  {
+    "code": 1,
+    "scanDate": "2025-01-15",
+    "labExamID": 1601,
+    "patientName": "Rahul Chopra",
+    "type": "CASH",
+    "amount": 850
+  },
+  {
+    "code": 2,
+    "scanDate": "2025-02-20",
+    "labExamID": 1602,
+    "patientName": "Priya Nair",
+    "type": "ONLINE",
+    "amount": 1200
+  },
+  {
+    "code": 3,
+    "scanDate": "2025-03-10",
+    "labExamID": 1603,
+    "patientName": "Suresh Patel",
+    "type": "DISCOUNT",
+    "amount": 650
+  },
+  {
+    "code": 4,
+    "scanDate": "2025-04-05",
+    "labExamID": 1604,
+    "patientName": "Kavita Menon",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 5,
+    "scanDate": "2025-05-12",
+    "labExamID": 1605,
+    "patientName": "Amit Sharma",
+    "type": "CASH",
+    "amount": 950
+  },
+  {
+    "code": 6,
+    "scanDate": "2025-06-18",
+    "labExamID": 1606,
+    "patientName": "Lakshmi Reddy",
+    "type": "ONLINE",
+    "amount": 1100
+  },
+  {
+    "code": 7,
+    "scanDate": "2025-07-22",
+    "labExamID": 1607,
+    "patientName": "Vikram Singh",
+    "type": "DISCOUNT",
+    "amount": 700
+  },
+  {
+    "code": 8,
+    "scanDate": "2025-01-28",
+    "labExamID": 1608,
+    "patientName": "Neha Gupta",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 9,
+    "scanDate": "2025-02-14",
+    "labExamID": 1609,
+    "patientName": "Ramesh Kumar",
+    "type": "CASH",
+    "amount": 800
+  },
+  {
+    "code": 10,
+    "scanDate": "2025-03-30",
+    "labExamID": 1610,
+    "patientName": "Sunita Joshi",
+    "type": "ONLINE",
+    "amount": 1300
+  },
+  {
+    "code": 11,
+    "scanDate": "2025-04-25",
+    "labExamID": 1611,
+    "patientName": "Mohan Das",
+    "type": "DISCOUNT",
+    "amount": 550
+  },
+  {
+    "code": 12,
+    "scanDate": "2025-05-08",
+    "labExamID": 1612,
+    "patientName": "Geeta Verma",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 13,
+    "scanDate": "2025-06-03",
+    "labExamID": 1613,
+    "patientName": "Arjun Mehta",
+    "type": "CASH",
+    "amount": 900
+  },
+  {
+    "code": 14,
+    "scanDate": "2025-07-17",
+    "labExamID": 1614,
+    "patientName": "Pooja Banerjee",
+    "type": "ONLINE",
+    "amount": 1150
+  },
+  {
+    "code": 15,
+    "scanDate": "2025-08-11",
+    "labExamID": 1615,
+    "patientName": "Kiran Yadav",
+    "type": "DISCOUNT",
+    "amount": 750
+  },
+  {
+    "code": 16,
+    "scanDate": "2025-09-06",
+    "labExamID": 1616,
+    "patientName": "Deepak Iyer",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 17,
+    "scanDate": "2025-01-22",
+    "labExamID": 1617,
+    "patientName": "Rekha Agarwal",
+    "type": "CASH",
+    "amount": 1000
+  },
+  {
+    "code": 18,
+    "scanDate": "2025-02-09",
+    "labExamID": 1618,
+    "patientName": "Nilesh Sen",
+    "type": "ONLINE",
+    "amount": 1250
+  },
+  {
+    "code": 19,
+    "scanDate": "2025-03-18",
+    "labExamID": 1619,
+    "patientName": "Tara Ghosh",
+    "type": "DISCOUNT",
+    "amount": 600
+  },
+  {
+    "code": 20,
+    "scanDate": "2025-04-13",
+    "labExamID": 1620,
+    "patientName": "Hari Jain",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 21,
+    "scanDate": "2025-05-27",
+    "labExamID": 1621,
+    "patientName": "Anita Roy",
+    "type": "CASH",
+    "amount": 850
+  },
+  {
+    "code": 22,
+    "scanDate": "2025-06-15",
+    "labExamID": 1622,
+    "patientName": "Rajesh Mishra",
+    "type": "ONLINE",
+    "amount": 1400
+  },
+  {
+    "code": 23,
+    "scanDate": "2025-07-04",
+    "labExamID": 1623,
+    "patientName": "Meera Khan",
+    "type": "DISCOUNT",
+    "amount": 450
+  },
+  {
+    "code": 24,
+    "scanDate": "2025-08-20",
+    "labExamID": 1624,
+    "patientName": "Sita Patel",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 25,
+    "scanDate": "2025-09-12",
+    "labExamID": 1625,
+    "patientName": "Vinod Nair",
+    "type": "CASH",
+    "amount": 1100
+  },
+  {
+    "code": 26,
+    "scanDate": "2025-10-01",
+    "labExamID": 1626,
+    "patientName": "Lata Chopra",
+    "type": "ONLINE",
+    "amount": 950
+  },
+  {
+    "code": 27,
+    "scanDate": "2025-01-07",
+    "labExamID": 1627,
+    "patientName": "Gopal Sharma",
+    "type": "DISCOUNT",
+    "amount": 800
+  },
+  {
+    "code": 28,
+    "scanDate": "2025-02-25",
+    "labExamID": 1628,
+    "patientName": "Radha Menon",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 29,
+    "scanDate": "2025-03-16",
+    "labExamID": 1629,
+    "patientName": "Om Gupta",
+    "type": "CASH",
+    "amount": 700
+  },
+  {
+    "code": 30,
+    "scanDate": "2025-04-28",
+    "labExamID": 1630,
+    "patientName": "Priya Das",
+    "type": "ONLINE",
+    "amount": 1300
+  },
+  {
+    "code": 31,
+    "scanDate": "2025-05-19",
+    "labExamID": 1631,
+    "patientName": "Rani Verma",
+    "type": "DISCOUNT",
+    "amount": 550
+  },
+  {
+    "code": 32,
+    "scanDate": "2025-06-10",
+    "labExamID": 1632,
+    "patientName": "Asha Mehta",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 33,
+    "scanDate": "2025-07-29",
+    "labExamID": 1633,
+    "patientName": "Bala Banerjee",
+    "type": "CASH",
+    "amount": 1050
+  },
+  {
+    "code": 34,
+    "scanDate": "2025-08-14",
+    "labExamID": 1634,
+    "patientName": "Kala Yadav",
+    "type": "ONLINE",
+    "amount": 1200
+  },
+  {
+    "code": 35,
+    "scanDate": "2025-09-08",
+    "labExamID": 1635,
+    "patientName": "Dev Iyer",
+    "type": "DISCOUNT",
+    "amount": 650
+  },
+  {
+    "code": 36,
+    "scanDate": "2025-10-02",
+    "labExamID": 1636,
+    "patientName": "Indu Agarwal",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 37,
+    "scanDate": "2025-01-30",
+    "labExamID": 1637,
+    "patientName": "Jai Sen",
+    "type": "CASH",
+    "amount": 900
+  },
+  {
+    "code": 38,
+    "scanDate": "2025-02-11",
+    "labExamID": 1638,
+    "patientName": "Kavi Ghosh",
+    "type": "ONLINE",
+    "amount": 1150
+  },
+  {
+    "code": 39,
+    "scanDate": "2025-03-24",
+    "labExamID": 1639,
+    "patientName": "Lila Jain",
+    "type": "DISCOUNT",
+    "amount": 500
+  },
+  {
+    "code": 40,
+    "scanDate": "2025-04-16",
+    "labExamID": 1640,
+    "patientName": "Mira Roy",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 41,
+    "scanDate": "2025-05-02",
+    "labExamID": 1641,
+    "patientName": "Nara Mishra",
+    "type": "CASH",
+    "amount": 850
+  },
+  {
+    "code": 42,
+    "scanDate": "2025-06-21",
+    "labExamID": 1642,
+    "patientName": "Omi Khan",
+    "type": "ONLINE",
+    "amount": 1400
+  },
+  {
+    "code": 43,
+    "scanDate": "2025-07-12",
+    "labExamID": 1643,
+    "patientName": "Pia Patel",
+    "type": "DISCOUNT",
+    "amount": 750
+  },
+  {
+    "code": 44,
+    "scanDate": "2025-08-05",
+    "labExamID": 1644,
+    "patientName": "Qamar Nair",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 45,
+    "scanDate": "2025-09-19",
+    "labExamID": 1645,
+    "patientName": "Rita Chopra",
+    "type": "CASH",
+    "amount": 1000
+  },
+  {
+    "code": 46,
+    "scanDate": "2025-01-18",
+    "labExamID": 1646,
+    "patientName": "Sami Sharma",
+    "type": "ONLINE",
+    "amount": 1100
+  },
+  {
+    "code": 47,
+    "scanDate": "2025-02-27",
+    "labExamID": 1647,
+    "patientName": "Tina Menon",
+    "type": "DISCOUNT",
+    "amount": 600
+  },
+  {
+    "code": 48,
+    "scanDate": "2025-03-09",
+    "labExamID": 1648,
+    "patientName": "Uma Gupta",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 49,
+    "scanDate": "2025-04-23",
+    "labExamID": 1649,
+    "patientName": "Vani Das",
+    "type": "CASH",
+    "amount": 950
+  },
+  {
+    "code": 50,
+    "scanDate": "2025-05-14",
+    "labExamID": 1650,
+    "patientName": "Wara Verma",
+    "type": "ONLINE",
+    "amount": 1250
+  },
+  {
+    "code": 51,
+    "scanDate": "2025-06-07",
+    "labExamID": 1651,
+    "patientName": "Xena Mehta",
+    "type": "DISCOUNT",
+    "amount": 550
+  },
+  {
+    "code": 52,
+    "scanDate": "2025-07-25",
+    "labExamID": 1652,
+    "patientName": "Yana Banerjee",
+    "type": "FOC",
+    "amount": 0
+  },
+  {
+    "code": 53,
+    "scanDate": "2025-08-16",
+    "labExamID": 1653,
+    "patientName": "Zara Yadav",
+    "type": "CASH",
+    "amount": 800
+  },
+  {
+    "code": 54,
+    "scanDate": "2025-09-03",
+    "labExamID": 1654,
+    "patientName": "Asha Iyer",
+    "type": "ONLINE",
+    "amount": 1300
+  },
+  {
+    "code": 55,
+    "scanDate": "2025-09-27",
+    "labExamID": 1655,
+    "patientName": "Bina Agarwal",
+    "type": "DISCOUNT",
+    "amount": 700
+  }
+]
