@@ -43,6 +43,8 @@ const Sidebar = () => {
   };
 
   const handleDashboard = () => {
+    console.log("Dashboard clicked");
+
     navigate("/");
   };
   return (
