@@ -4,8 +4,10 @@ import { FiHome, FiChevronDown, FiChevronRight } from "react-icons/fi";
 import { IoSettingsOutline } from "react-icons/io5";
 import { TbBuildingHospital, TbLogout, TbReportMedical } from "react-icons/tb";
 import { Link } from "react-router";
+import { useNavigate } from "react-router";
 
 const Sidebar = () => {
+  const navigate = useNavigate();
   const [openMenu, setOpenMenu] = useState("");
   const [activeSubmenu, setActiveSubmenu] = useState("");
   const MasterSubMenus = ["Dashboard"];
@@ -39,12 +41,19 @@ const Sidebar = () => {
     setOpenMenu((prev) => (prev === menu ? "" : menu));
     // agar same menu dubara click kare to close ho jaye
   };
+
+  const handleDashboard = () => {
+    navigate("/");
+  };
   return (
     <>
       <div className="bg-white w-[20%] h-screen border-r border-gray-200 drop-shadow-2xl overflow-y-auto flex flex-col">
         <div className="sticky top-0 bg-white z-10">
           <div className="flex items-center px-4 py-3 border-b border-gray-200">
-            <div className="bg-violet-400 p-3 rounded-full">
+            <div
+              className="bg-violet-400 p-3 rounded-full cursor-pointer"
+              onClick={handleDashboard}
+            >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 className="h-6 w-6 text-white"
@@ -60,7 +69,12 @@ const Sidebar = () => {
                 />
               </svg>
             </div>
-            <h2 className="ml-3 text-2xl font-bold text-violet-400">Pramukh</h2>
+            <h2
+              className="ml-3 text-2xl font-bold text-violet-400 cursor-pointer"
+              onClick={handleDashboard}
+            >
+              Pramukh
+            </h2>
           </div>
 
           <div className="flex items-center gap-3 px-4 py-3 border-b border-gray-200">
